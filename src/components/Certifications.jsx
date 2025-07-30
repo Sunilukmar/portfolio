@@ -44,7 +44,7 @@ export default function Certifications() {
               {
                 title: "Certificate of UI/UX Design",
                 org: "Design Institute",
-                link: "https://example.com/uiux-certificate"
+                link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7e16c436-e9ea-4390-ba1d-cafd43eb188b.pdf"
               },
               {
                 title: "Japanese Language Proficiency Test (Level N5)",
