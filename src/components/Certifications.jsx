@@ -39,12 +39,12 @@ export default function Certifications() {
               {
                 title: "Learn HTML from Scratch",
                 org: "Udemy",
-                link: "https://udemy-certificate.s3.amazonaws.com/image/UC-8af46c71-e628-467c-a3c7-b243ecb569e0.jpg"
+                link: "https://udemy-certificate.s3.amazonaws.com/image/UC-a33ab249-07aa-4285-9325-89e4b056044a.jpg"
               },
               {
                 title: "Certificate of UI/UX Design",
                 org: "Design Institute",
-                link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7e16c436-e9ea-4390-ba1d-cafd43eb188b.pdf"
+                link: "https://udemy-certificate.s3.amazonaws.com/image/UC-7e16c436-e9ea-4390-ba1d-cafd43eb188b.jpg"
               },
               {
                 title: "Japanese Language Proficiency Test (Level N5)",
